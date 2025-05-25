@@ -49,3 +49,11 @@ A complete **Student Management System** built with **Java Swing GUI**. This app
    ```bash
    git clone https://github.com/yourusername/student-management-system.git
    cd student-management-system
+
+### 👨‍💻 Contributors
+
+- [**Deepanshu**](https://github.com/chikujaurasiya) – Project Author & Documentation Writer
+- [**Karan**](https://github.com/Karankkg) – Game Logic Developer
+- [**Govind**](https://github.com/jsadfk) – UI/UX Designer
+
+***
