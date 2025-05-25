@@ -1,38 +1,51 @@
-# PROJECT-SCHOOL-MANAGEMENT-SYSTEM
+# 🎓 Student Management System - Java GUI
 
-This is a simple command-line Java program to manage students and teachers. You can add and view student and teacher information using a menu-driven interface.
+A complete **Student Management System** built with **Java Swing GUI**. This application allows administrators to manage student records efficiently, with full CRUD functionality and optional MySQL database integration.
 
----
-
-## ✅ Features
-
-- Add new students
-- Add new teachers
-- View all students
-- View all teachers
-- Exit the system
+![Java GUI Screenshot](https://your-screenshot-link-if-any.png)
 
 ---
 
-## 🛠 Requirements
+## ✨ Features
 
-- Java Development Kit (JDK) 8 or later installed
-- Command Line Terminal or Command Prompt
+- 🧑‍🎓 Add, edit, delete, and view student details
+- 📚 Course and subject management
+- 🔍 Search and filter students
+- 📄 Report generation
+- 🗃️ MySQL database support (optional)
+- 💡 Built using Java Swing (GUI-based)
+- 🧱 MVC Architecture
 
 ---
 
-## 🚀 How to Compile and Run
+## 📸 Screenshots
 
-### . Save the Java Code
-Save the code in a file named **Main.java**:
+| Dashboard | Add Student | View Records |
+|-----------|-------------|---------------|
+| ![dashboard](https://your-image-link.png) | ![add](https://your-image-link.png) | ![view](https://your-image-link.png) |
 
+---
 
-Sample Menu
---- School Management System ---
-1. Add Student
-2. Add Teacher
-3. View Students
-4. View Teachers
-5. Exit
-Enter your choice:
+## 🛠️ Tech Stack
 
+- **Language:** Java  
+- **GUI:** Swing (Java Foundation Classes)  
+- **Database:** MySQL (optional)  
+- **Architecture:** MVC (Model-View-Controller)  
+- **IDE:** IntelliJ IDEA / Eclipse  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Java JDK 8 or higher
+- MySQL Server (if using database)
+- IDE (Eclipse, IntelliJ, or NetBeans)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/student-management-system.git
+   cd student-management-system
